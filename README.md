@@ -13,9 +13,6 @@
   the HTML head instead of "website" so our users know what site they are on as well as to also improve search engine 
   relevance
   
-<<<<<<< HEAD
-  
-=======
   <img width="1512" alt="Screen Shot 2022-10-26 at 2 23 56 AM" src="https://user-images.githubusercontent.com/115440321/197965208-acd36877-6439-4ff0-a236-9a282eb76536.png">
 
 <img width="1512" alt="Screen Shot 2022-10-26 at 2 24 06 AM" src="https://user-images.githubusercontent.com/115440321/197965290-a7e140cd-13c8-46ad-98ef-81d959f6e8dd.png">
@@ -25,8 +22,7 @@
 <img width="1512" alt="Screen Shot 2022-10-26 at 2 40 04 AM" src="https://user-images.githubusercontent.com/115440321/197965498-c0dbbbb7-345b-417b-9031-9a8234a89cc4.png">
 
 <img width="1512" alt="Screen Shot 2022-10-26 at 2 40 15 AM" src="https://user-images.githubusercontent.com/115440321/197965435-c9535ba6-c1a1-4c1d-b922-678763edffbd.png">
-   
->>>>>>> 96da7fe17f4784925bdc9592f220c8e675308b8c
+
 ## Installation
   
   N/A
