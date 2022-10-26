@@ -29,5 +29,5 @@
   
 ## Usage
 
-  JavaScript has yet to be added to this site, but here's a link/
+  JavaScript has yet to be added to this site, but here's a link https://sdnovice.github.io/challenge-1-refactoring-horiseon/
   
